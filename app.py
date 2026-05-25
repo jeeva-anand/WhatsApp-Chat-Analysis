@@ -1,13 +1,10 @@
 import streamlit as st
-import matplotlib.pyplot as plt
 import seaborn as sns
 import preprocess as process
-import helper as helper
-import streamlit as st
-import pandas as pd
-import nltk
+import helper
+import matplotlib.pyplot as plt
 
-# data = process.preprocess(open('./data/raw/WhatsApp Chat with Competitive Programmers.txt', encoding='utf-8').read())
+
 
 st.sidebar.title("WhatsApp Chat Analysis")
 
