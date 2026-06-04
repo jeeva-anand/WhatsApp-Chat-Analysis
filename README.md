@@ -4,13 +4,8 @@
 
 WhatsApp Chat Analysis is a data analytics application that extracts meaningful insights from exported WhatsApp conversations. The project combines data preprocessing, exploratory data analysis, visualization, and web application deployment to help users understand communication patterns, engagement levels, and user behavior within individual and group chats.
 
+
 ![alt text](assets/screenshots/image.png)
-![alt text](assets/screenshots/image-3.png)
-![alt text](assets/screenshots/image-2.png)
-![alt text](assets/screenshots/image-1.png)
-![alt text](assets/screenshots/image-4.png)
-
-
 
 ## Key Features
 
