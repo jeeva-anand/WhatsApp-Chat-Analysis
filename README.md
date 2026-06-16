@@ -6,10 +6,14 @@
 **Transforms unstructured chat data into human behavior insights using NLP and visualization.**
 
 
-![Python](https://img.shields.io/badge/Python-3.10-blue)
-![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
-![Status](https://img.shields.io/badge/Project-Completed-green)
 
+
+<p align="">
+  <img src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python">
+  <img src="https://img.shields.io/badge/Streamlit-App-red?style=for-the-badge&logo=streamlit">
+  <img src="https://img.shields.io/badge/Machine%20Learning-Project-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/NLP-Text%20Analysis-purple?style=for-the-badge">
+</p>
 
 ---
 
