@@ -12,9 +12,9 @@
 
 
 ---
-## Turn conversations into insights.
 
-Analyze WhatsApp chat exports to uncover:
+
+## Analyze WhatsApp chat exports to uncover
 
 *  Messaging patterns & activity trends
 *  Most active users
@@ -48,10 +48,10 @@ This project converts raw WhatsApp chat logs into **structured insights and visu
 
 </br>
 
-##  Demo Preview
+##  Live Demo
 
 
-![Streamlit App Demo](<reports/figures/Streamlit App Demo.gif>)
+![Streamlit App ](<reports/figures/Streamlit App Demo.gif>)
 
 
 </br>
@@ -159,11 +159,23 @@ streamlit run app.py
 </br>
 
 ##  Future Improvements
-* Sentiment analysis using VADER / BERT
-* Topic modeling (LDA)
-* AI chat summarization
-* Real-time WhatsApp API integration
-* Multi-chat comparison dashboard
+
+- Sentiment analysis of chat messages using VADER / BERT
+- Conversation summarization using LLMs
+- Topic modeling (LDA / BERTopic)
+- AI-based chat assistant for insights
+- Real-time WhatsApp API integration
+
+</br>
+
+
+##  Skills Demonstrated
+
+- Data Cleaning & Preprocessing
+- NLP (text parsing, tokenization, word frequency analysis)
+- Data Visualization & Storytelling
+- Streamlit App Development
+- End-to-end ML pipeline design
 
 </br>
 
